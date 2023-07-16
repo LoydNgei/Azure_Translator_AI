@@ -1,0 +1,1 @@
+This Application uses Azure Cognitive Services to build intelligent applications infused with AI. By using the Translator service to the specified few languages.
